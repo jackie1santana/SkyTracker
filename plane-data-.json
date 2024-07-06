@@ -1,0 +1,173 @@
+{
+    "flights": [
+      {
+        "id": "1",
+        "flightNumber": "UA123",
+        "departure": "JFK",
+        "arrival": "LAX",
+        "gate": "22",
+        "airline": "United Airlines",
+        "originCountry": "USA",
+        "destinationCountry": "USA",
+        "weather": {
+          "condition": "Clear",
+          "temperature": "22°C",
+          "windSpeed": "10 mph"
+        },
+        "pilots": [
+          {"name": "John Doe"},
+          {"name": "Jane Smith"}
+        ],
+        "stewardesses": [
+          {"name": "Alice Johnson"},
+          {"name": "Bob Brown"}
+        ],
+        "passengers": 150,
+        "originAirport": "John F. Kennedy International Airport",
+        "destinationAirport": "Los Angeles International Airport",
+        "miles": 2475,
+        "currentSpeed": "550 mph"
+      },
+      {
+        "id": "2",
+        "flightNumber": "AA456",
+        "departure": "ORD",
+        "arrival": "MIA",
+        "gate": "B5",
+        "airline": "American Airlines",
+        "originCountry": "USA",
+        "destinationCountry": "USA",
+        "weather": {
+          "condition": "Partly Cloudy",
+          "temperature": "28°C",
+          "windSpeed": "15 mph"
+        },
+        "pilots": [
+          {"name": "Emily Davis"},
+          {"name": "Michael Scott"}
+        ],
+        "stewardesses": [
+          {"name": "Sophia Lee"},
+          {"name": "David Wilson"}
+        ],
+        "passengers": 120,
+        "originAirport": "Chicago O'Hare International Airport",
+        "destinationAirport": "Miami International Airport",
+        "miles": 1197,
+        "currentSpeed": "530 mph"
+      },
+      {
+        "id": "3",
+        "flightNumber": "DL789",
+        "departure": "ATL",
+        "arrival": "SFO",
+        "gate": "C10",
+        "airline": "Delta Airlines",
+        "originCountry": "USA",
+        "destinationCountry": "USA",
+        "weather": {
+          "condition": "Rainy",
+          "temperature": "18°C",
+          "windSpeed": "20 mph"
+        },
+        "pilots": [
+          {"name": "Robert Brown"},
+          {"name": "Laura White"}
+        ],
+        "stewardesses": [
+          {"name": "Jennifer Green"},
+          {"name": "James Black"}
+        ],
+        "passengers": 180,
+        "originAirport": "Hartsfield-Jackson Atlanta International Airport",
+        "destinationAirport": "San Francisco International Airport",
+        "miles": 2139,
+        "currentSpeed": "540 mph"
+      },
+      {
+        "id": "4",
+        "flightNumber": "BA321",
+        "departure": "LHR",
+        "arrival": "JFK",
+        "gate": "D12",
+        "airline": "British Airways",
+        "originCountry": "UK",
+        "destinationCountry": "USA",
+        "weather": {
+          "condition": "Sunny",
+          "temperature": "25°C",
+          "windSpeed": "5 mph"
+        },
+        "pilots": [
+          {"name": "Alice Brown"},
+          {"name": "Tom Harris"}
+        ],
+        "stewardesses": [
+          {"name": "Linda Smith"},
+          {"name": "Mark Johnson"}
+        ],
+        "passengers": 200,
+        "originAirport": "Heathrow Airport",
+        "destinationAirport": "John F. Kennedy International Airport",
+        "miles": 3451,
+        "currentSpeed": "560 mph"
+      },
+      {
+        "id": "5",
+        "flightNumber": "AF678",
+        "departure": "CDG",
+        "arrival": "NRT",
+        "gate": "E5",
+        "airline": "Air France",
+        "originCountry": "France",
+        "destinationCountry": "Japan",
+        "weather": {
+          "condition": "Windy",
+          "temperature": "20°C",
+          "windSpeed": "25 mph"
+        },
+        "pilots": [
+          {"name": "Paul Taylor"},
+          {"name": "Rebecca Clark"}
+        ],
+        "stewardesses": [
+          {"name": "Nancy Moore"},
+          {"name": "Kevin Jones"}
+        ],
+        "passengers": 220,
+        "originAirport": "Charles de Gaulle Airport",
+        "destinationAirport": "Narita International Airport",
+        "miles": 6055,
+        "currentSpeed": "570 mph"
+      },
+      {
+        "id": "6",
+        "flightNumber": "QF123",
+        "departure": "SYD",
+        "arrival": "LAX",
+        "gate": "A1",
+        "airline": "Qantas",
+        "originCountry": "Australia",
+        "destinationCountry": "USA",
+        "weather": {
+          "condition": "Cloudy",
+          "temperature": "18°C",
+          "windSpeed": "12 mph"
+        },
+        "pilots": [
+          {"name": "George Martin"},
+          {"name": "Sarah Parker"}
+        ],
+        "stewardesses": [
+          {"name": "Diana Brown"},
+          {"name": "Henry Wilson"}
+        ],
+        "passengers": 250,
+        "originAirport": "Sydney Kingsford Smith Airport",
+        "destinationAirport": "Los Angeles International Airport",
+        "miles": 7488,
+        "currentSpeed": "580 mph"
+      }
+    ]
+  }
+  

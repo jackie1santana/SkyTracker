@@ -1,0 +1,105 @@
+{
+    "boats": [
+      {
+        "id": "1",
+        "boatName": "SS Marine",
+        "currentLocation": "Atlantic Ocean",
+        "knotSpeed": "15 knots",
+        "captain": "Captain Jack Sparrow",
+        "crew": [
+          {"name": "Will Turner"},
+          {"name": "Elizabeth Swann"}
+        ],
+        "passengers": 500,
+        "originPort": "Port of Miami",
+        "destinationPort": "Port of Nassau",
+        "milesToDestination": 200,
+        "weather": {
+          "condition": "Partly Cloudy",
+          "temperature": "28°C",
+          "windSpeed": "12 knots"
+        }
+      },
+      {
+        "id": "2",
+        "boatName": "HMS Victory",
+        "currentLocation": "English Channel",
+        "knotSpeed": "10 knots",
+        "captain": "Captain John Smith",
+        "crew": [
+          {"name": "Thomas Moore"},
+          {"name": "James Cook"}
+        ],
+        "passengers": 100,
+        "originPort": "Portsmouth",
+        "destinationPort": "Calais",
+        "milesToDestination": 100,
+        "weather": {
+          "condition": "Foggy",
+          "temperature": "15°C",
+          "windSpeed": "8 knots"
+        }
+      },
+      {
+        "id": "3",
+        "boatName": "The Black Pearl",
+        "currentLocation": "Caribbean Sea",
+        "knotSpeed": "18 knots",
+        "captain": "Captain Hector Barbossa",
+        "crew": [
+          {"name": "Joshamee Gibbs"},
+          {"name": "Anamaria"}
+        ],
+        "passengers": 150,
+        "originPort": "Port Royal",
+        "destinationPort": "Tortuga",
+        "milesToDestination": 150,
+        "weather": {
+          "condition": "Stormy",
+          "temperature": "27°C",
+          "windSpeed": "20 knots"
+        }
+      },
+      {
+        "id": "4",
+        "boatName": "Queen Mary 2",
+        "currentLocation": "North Atlantic Ocean",
+        "knotSpeed": "25 knots",
+        "captain": "Captain Commodore",
+        "crew": [
+          {"name": "Arthur Davies"},
+          {"name": "Edward Teach"}
+        ],
+        "passengers": 2000,
+        "originPort": "Southampton",
+        "destinationPort": "New York",
+        "milesToDestination": 3200,
+        "weather": {
+          "condition": "Clear",
+          "temperature": "22°C",
+          "windSpeed": "10 knots"
+        }
+      },
+      {
+        "id": "5",
+        "boatName": "Disney Dream",
+        "currentLocation": "Bahamas",
+        "knotSpeed": "20 knots",
+        "captain": "Captain Mickey Mouse",
+        "crew": [
+          {"name": "Donald Duck"},
+          {"name": "Goofy"}
+        ],
+        "passengers": 4000,
+        "originPort": "Port Canaveral",
+        "destinationPort": "Castaway Cay",
+        "milesToDestination": 60,
+        "weather": {
+          "condition": "Sunny",
+          "temperature": "30°C",
+          "windSpeed": "5 knots"
+        }
+      }
+    ]
+}
+  
